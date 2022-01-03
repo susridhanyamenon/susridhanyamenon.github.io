@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Dhanya Menon
 
-You can use the [editor on GitHub](https://github.com/signorinadhanyamenonmba/Mint-Street-to-Dalal-Street/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+writes for people and machines
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Know Me
 
-### Markdown
+I'm a writer specialising in banking, capital markets and global economic affairs. I interest myself in breaking news articles, investment research and thought leadership that drives my audience to action. I'm devoted to explaining and documenting to the extent that I like not only to direct my readers to the right financial decision but also in enabling them to arrive at one. So, I frequently spend time writing code for open source projects. And part as I do never with my typepad, when not storytelling with events or data, I put to print narratives for everything from drama to games not leaving my niche of finance. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Read Me
 
-```markdown
-Syntax highlighted code block
+I write on all the hot topics in the field of economics and finance as I journey to know many things from Mint Street to Dalal Street on [Blogger](https://mmedhanyamenonmba.blogspot.com/).
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Me
 
-- Bulleted
-- List
+I'm at [Twitter](https://www.twitter.com/mizdhanyamenon), [Reddit](https://reddit.com/dominadhanyamenonmba), [LinkedIn](https://www.linkedin.com/sayidadhanyamenonmba), [Snapchat](https://www.snapchat.com/maamdhanyamenon), [Facebook](https://www.facebook.com/susridhanyamenonmba) and [Instagram](https://www.instagram.com/srtadhanyamenonmba).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/signorinadhanyamenonmba/Mint-Street-to-Dalal-Street/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
