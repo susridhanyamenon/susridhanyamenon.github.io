@@ -1,6 +1,6 @@
-## Dhanya Menon
+## Pick Me
 
-models for money, markets and machines
+I model for money, markets and machines.
 
 ### Know Me
 
