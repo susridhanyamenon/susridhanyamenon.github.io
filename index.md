@@ -1,6 +1,6 @@
 # Dhanya Menon
 
-*Have Brains. Will Code.*
+*Have Brain. Will Code.*
 
 ### Know Me
 
