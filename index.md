@@ -1,6 +1,6 @@
 # Dhanya Menon
 
-*models for money from markets on machines*
+*Have Brains. Will Code.*
 
 ## Know Me
 
