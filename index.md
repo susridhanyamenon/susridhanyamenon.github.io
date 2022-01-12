@@ -1,6 +1,6 @@
-## View Me
+# Dhanya Menon
 
-Modelling for money from markets on machines, that's me.
+*models for money from markets on machines*
 
 ## Know Me
 
