@@ -1,6 +1,6 @@
 ## View Me
 
-I model for money from markets on machines.
+Modelling for money from markets on machines, that's me.
 
 ## Know Me
 
@@ -8,8 +8,8 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 ## Read Me
 
-I blog on all the hot topics in the field of economics and finance as I journey through data to know many things from Mint Street to Dalal Street on [Blogger](https://mmedhanyamenonmba.blogspot.com/).
+My blog on all the hot topics in the field of economics and finance as I journey through data to know many things from Mint Street to Dalal Street is on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en).
 
 ## Contact Me
 
-I'm at [Twitter](https://www.twitter.com/mizdhanyamenon), [Reddit](https://www.reddit.com/user/dominadhanyamenonmba), [LinkedIn](https://www.linkedin.com/in/sayidadhanyamenonmba), [Snapchat](https://www.snapchat.com/add/maamdhanyamenon), [Facebook](https://www.facebook.com/susridhanyamenonmba) and [Instagram](https://www.instagram.com/srtadhanyamenonmba).
+Myself can be found at [Twitter](https://www.twitter.com/mizdhanyamenon), [Reddit](https://www.reddit.com/user/dominadhanyamenonmba), [LinkedIn](https://www.linkedin.com/in/sayidadhanyamenonmba), [Snapchat](https://www.snapchat.com/add/maamdhanyamenon), [Facebook](https://www.facebook.com/susridhanyamenonmba) and [Instagram](https://www.instagram.com/srtadhanyamenonmba).
