@@ -8,7 +8,7 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 ### Read Me
 
-My blog on all the hot topics in the field of economics and finance that I curate as I journey through data to know many things from Mint Street to Dalal Street is on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en).
+My blog on all the hot happenings in the financial world that I curate as I journey through data to know many things from Mint Street to Dalal Street is on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en).
 
 ### Contact Me
 
