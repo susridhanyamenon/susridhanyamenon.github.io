@@ -10,6 +10,6 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 My blog on all the hot happenings in the financial world that I curate as I journey through data to know many things from Mint Street to Dalal Street is on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en).
 
-### Contact Me
+### Contact Me 
 
-Find me at [Twitter](https://www.twitter.com/mizdhanyamenon), [Reddit](https://www.reddit.com/user/dominadhanyamenonmba), [LinkedIn](https://www.linkedin.com/in/sayidadhanyamenonmba), [Snapchat](https://www.snapchat.com/add/maamdhanyamenon), [Facebook](https://www.facebook.com/susridhanyamenonmba) and [Instagram](https://www.instagram.com/srtadhanyamenonmba).
+Find me at [Twitter](https://www.twitter.com/mizdhanyamenon) to check out what's trending in banking, on [Reddit](https://www.reddit.com/user/dominadhanyamenonmba) to stay informed on how the bulls and bears are doing, on [LinkedIn](https://www.linkedin.com/in/sayidadhanyamenonmba) for a comprehensive take at the finance news that's making waves, on [GitHub](https://www.github.com/signorinadhanyamenonmba) to collaborate on a software development project, on [Instagram](https://www.instagram.com/srtadhanyamenonmba) to take an alluring break from thinking straight or on [Facebook](https://www.facebook.com/susridhanyamenonmba) to simply get me to spill the beans on my work, life and everything in between.
