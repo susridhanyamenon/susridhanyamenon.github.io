@@ -8,8 +8,8 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 ### Read Me
 
-My blog on all the hot happenings in the financial world that I curate, as I journey through the data maze from Mint Street to Dalal Street, is on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en).
+[Mint Street to Dalal Street](https://mmedhanyamenonmba.blogspot.com/), my blog on all the hot happenings in the economic world that I curate as I journey through the maze of market data, is on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en).
 
 ### Contact Me 
 
-Find me on [Twitter](https://www.twitter.com/mizdhanyamenon) to check out what's trending in banking, on [Reddit](https://www.reddit.com/user/dominadhanyamenonmba) to stay informed on how the bulls and bears are doing, on [LinkedIn](https://www.linkedin.com/in/sayidadhanyamenonmba) for a comprehensive take at the finance news that's making waves, on [GitHub](https://www.github.com/signorinadhanyamenonmba) to collaborate on a software development project, on [Facebook](https://www.facebook.com/susridhanyamenonmba) to have me spill the beans on my work, life and everything in between or on [Instagram](https://www.instagram.com/srtadhanyamenonmba) to simply meet the authentic me.
+Find me not only on [Blogger](https://www.blogger.com/profile/10908435327590944385), for commentary from the financial hub, but also on [Twitter](https://www.twitter.com/mizdhanyamenon) to check out what's trending in banking, on [Reddit](https://www.reddit.com/user/dominadhanyamenonmba) to stay informed on how the bulls and bears are doing, on [LinkedIn](https://www.linkedin.com/in/sayidadhanyamenonmba) for a comprehensive take at the business news that's making waves, on [GitHub](https://www.github.com/signorinadhanyamenonmba) to collaborate on a software development project, on [Facebook](https://www.facebook.com/susridhanyamenonmba) to have me spill the beans on my work, life and everything in between or on [Instagram](https://www.instagram.com/srtadhanyamenonmba) to simply meet the authentic me.
