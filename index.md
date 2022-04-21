@@ -8,7 +8,7 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 ### Read Me
 
-At [Mint Street to Dalal Street](https://mintstreettodalalstreet.wordpress.com/), I create and curate all the hot happenings in business and investing, making your journey through the maze of market data easier via publications of [news](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en), research and data.
+At [Mint Street to Dalal Street](https://mintstreettodalalstreet.wordpress.com/), I create and curate all the hot happenings in business and investing, making a journey through the maze of market data easier via publications of [news](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en), research and data.
 
 ### Contact Me 
 
