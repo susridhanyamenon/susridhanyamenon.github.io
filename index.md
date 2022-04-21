@@ -4,11 +4,11 @@
 
 ### Know Me
 
-I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. I interest myself in breaking news, investment research and thought leadership that drives my clients to action. When not storytelling with theories, events or data I can be found brainstorming for ideas for everything from web novels to games not leaving my niche of finance. 
+I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. I interest myself in breaking news, investment research and thought leadership that drives my clients to action. When not storytelling with theories, events or data, I can be found brainstorming for ideas for everything from web novels to games not leaving my niche of finance. 
 
 ### Read Me
 
-At [Mint Street to Dalal Street](https://mintstreettodalalstreet.wordpress.com/) I create and curate all the hot happenings in business and investing making your journey through the maze of market data easier via publications of [news](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en), research and data.
+At [Mint Street to Dalal Street](https://mintstreettodalalstreet.wordpress.com/), I create and curate all the hot happenings in business and investing, making your journey through the maze of market data easier via publications of [news](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en), research and data.
 
 ### Contact Me 
 
