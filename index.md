@@ -8,7 +8,7 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 ### Read Me
 
-Any given day, before getting down to hard nosed, heads down disciplined work riddling in only resources that [Talk Data to Me](https://www.linkedin.com/newsletters/talk-data-to-me/), I take a round from [Mint Street to Dalal Street](https://mintstreettodalalstreet.blogspot.com/) to curate all the hot happenings in business and investing and share on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en) insightful feeds that would lend meaning to the journey through the maze of market data. And later when I sign off, I stay back at [The Desk of The Data Scientist](https://thedeskofthedatascientist.blogspot.com) to volunteer for organising research knowledge and simplify the use of data science to make sense of financial information.
+Any given day, before getting down to hard nosed, heads down disciplined work riddling in only resources that [Talk Data to Me](https://www.linkedin.com/newsletters/talk-data-to-me/), I take a round from [Mint Street to Dalal Street](https://mintstreettodalalstreet.blogspot.com/) to curate all the hot happenings in business and investing and share on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en) insightful feeds that would lend meaning to the journey through the maze of market data. And later when I sign off, I stay back at [The Desk of The Data Scientist](https://www.linkedin.com/newsletters/the-desk-of-the-data-scientist) to volunteer for organising research knowledge and documenting the use of data science in making sense of financial information.
 
 ### Contact Me 
 
