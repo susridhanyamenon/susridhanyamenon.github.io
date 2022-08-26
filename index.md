@@ -4,11 +4,20 @@
 
 ### Know Me
 
-I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. I interest myself in breaking news, investment research and thought leadership that drives action. When not storytelling with theories, events or data, I can be found brainstorming for ideas for everything from web novels to games not leaving my niche of finance. 
+I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. I interest myself in breaking news, investment research, tech gap analysis and thought leadership that drives action. When not storytelling with theories, events or data, I can be found brainstorming for ideas for everything from web novels to games not leaving my niche of finance. 
 
 ### Read Me
 
-Before getting down to hard nosed, heads down disciplined scripting at my publishing [From Mint Street to Dalal Street](https://sites.google.com/view/frommintstreettodalalstreet) to digitise the process of market information extraction from a combination of spreadsheets and manual workflows to state of the art cloud based artificially intelligent models based on real time data on assets, I curate all the hot happenings in business and investing and make availabile insightful feeds on the unmissable on [Google News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en) to make the everyday journey through the maze of market data hassle free. And later when I sign off, I stay back to volunteer for organising knowledge on the use of data science in making sense of financial information and learning about the latest research percolating at top universities that I share on [LinkedIn Pulse](https://www.linkedin.com/newsletters/from-mint-street-to-dalal-street).
+I script at my publishing [From Mint Street to Dalal 
+Street](https://sites.google.com/view/frommintstreettodalalstreet) where to make the everyday 
+journey through the maze of market data hassle free, I, curate all the hot happenings in business and 
+investing and make availabile insightful feeds on the unmissable on [Google 
+News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en), make 
+familiar new tech that seeks to improve and automate the delivery and use of financial services, share 
+know how on digitising the process of market information extraction from a combination of 
+spreadsheets and manual workflows to state of the art cloud based artificially intelligent models based 
+on real time data on assets and organise research knowledge on the use of data science in making sense 
+of financial information and learning about the latest research outputs percolating to common use.
 
 ### Contact Me 
 
