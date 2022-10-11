@@ -8,16 +8,16 @@ I'm a data scientist in the fintech ecosystem specialising in banking, capital m
 
 ### Read Me
 
-I script at my publishing [From Mint Street to Dalal 
-Street](https://sites.google.com/view/frommintstreettodalalstreet) where to make the everyday 
+I script at my publishing [Mint Street to Dalal 
+Street](https://sites.google.com/view/mintstreettodalalstreet) where to make the everyday 
 journey through the maze of market data hassle free, I, curate all the hot happenings in business and 
 investing and make availabile insightful feeds on the unmissable on [Google 
 News](https://news.google.com/publications/CAAqBwgKML7MqQswsNfBAw?ceid=IN:en), make 
-familiar new tech in the industry that seeks to improve and automate the delivery and use of financial services on [Revue](https://www.getrevue.co/profile/frommintstreettodalalstreet), share 
+familiar new tech in the industry that seeks to improve and automate the delivery and use of financial services on [Revue](https://www.getrevue.co/profile/mintstreettodalalstreet), share 
 know how on digitising the process of market information extraction from a combination of 
 spreadsheets and manual workflows to state of the art cloud based artificially intelligent models based 
-on real time data on assets on [GitHub](https://signorinadhanyamenonmba.github.io/From-Mint-Street-to-Dalal-Street) and organise research knowledge on the use of data science in making sense 
-of financial information and review the latest outputs that have percolated to common knowledge on [LinkedIn](https://www.linkedin.com/newsletters/from-mint-street-to-dalal-street).
+on real time data on assets on [GitHub](https://signorinadhanyamenonmba.github.io/Mint-Street-to-Dalal-Street) and organise research knowledge on the use of data science in making sense 
+of financial information and review the latest outputs that have percolated to common knowledge on [LinkedIn](https://www.linkedin.com/newsletters/mint-street-to-dalal-street).
 
 ### Contact Me 
 
