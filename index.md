@@ -17,7 +17,7 @@ familiar new tech in the industry that seeks to improve and automate the deliver
 know how on digitising the process of market information extraction from a combination of 
 spreadsheets and manual workflows to state of the art cloud based artificially intelligent models based 
 on real time data on assets on [GitHub](https://signorinadhanyamenonmba.github.io/Mint-Street-to-Dalal-Street) and organise research knowledge on the use of data science in making sense 
-of financial information and review the latest outputs that have percolated to common knowledge on [LinkedIn](https://www.linkedin.com/newsletters/mint-street-to-dalal-street).
+of financial information and review the latest outputs that have percolated to common knowledge on [LinkedIn](https://www.linkedin.com/newsletters/mint-street-to-dalal-street-6985497676297490432/).
 
 ### Contact Me 
 
