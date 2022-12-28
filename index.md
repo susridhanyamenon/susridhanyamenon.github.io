@@ -1,5 +1,5 @@
 ### Dhanya Menon
-*Have Brain. Will Code.*
+*If you want the dope, I'm your crack.*
 ### Know Me
 I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. I interest myself in breaking news, investment research, tech gap analysis and thought leadership that drives action. When not storytelling with theories, events or data, I can be found brainstorming for ideas for everything from web novels to games not leaving my niche of finance. 
 ### Read Me
