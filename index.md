@@ -1,5 +1,5 @@
 ### Dhanya Menon
-*Founder Proprietor, [Mint Street to Dalal Street](https://sites.google.com/view/mint-street-to-dalal-street)*
+*Founder Chair & CEO, [Mint Street to Dalal Street](https://sites.google.com/view/mint-street-to-dalal-street)*
 ### Know Me
 I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. I interest myself in breaking news, securities research and thought leadership that drives action. When not storytelling with theories, events or data or brainstorming for novel solutions for new problems in the financial markets, I can be found puzzling and socialising at a distance in my niche. 
 ### Read Me
