@@ -1,5 +1,5 @@
 ### Dhanya Menon
-*Data Scientist, Professor of Practice and Internet Entrepreneur*
+*Data Scientist, Professor of Practice and Netpreneur*
 ### Know Me
 I'm a data scientist in the fintech ecosystem specialising in banking, capital markets and global economic affairs. On a typical day I interest myself in breaking news, economic research and thought leadership that catalyses initiatives in my policy laboratory. When not storytelling with theories, events or data or setting the research direction for providing novel strategies for noveau challenges in the financial markets, I can be found clocking hours as a professor of practice, designing and executing research studies that have real-world impact.
 ### Read Me
